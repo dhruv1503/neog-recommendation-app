@@ -1,0 +1,20 @@
+* {
+  background-color: #e3e3e3;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.btn {
+  margin-left: 1em;
+  border: none;
+  background-color: tomato;
+  padding: 0.5em 2em;
+  color: #fff;
+  border-radius: 1em;
+}
+.btn:hover {
+  font-weight: 600;
+  opacity: 0.85;
+}
